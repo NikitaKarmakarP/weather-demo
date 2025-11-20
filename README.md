@@ -1,6 +1,10 @@
 ## 🌦️ Weather Demo App
+A modern and responsive Weather Application built using Vite + React + TypeScript + Tailwind CSS.
+It provides real-time weather updates with a clean UI and smooth user experience.
 
 <p align="center"> A fast, modern, and beautiful weather application built using <b>React + Vite + TypeScript + Tailwind CSS</b>. </p> <p align="center"> <img src="https://img.shields.io/badge/React-19-blue?logo=react" /> <img src="https://img.shields.io/badge/Vite-Build-purple?logo=vite" /> <img src="https://img.shields.io/badge/TypeScript-5-blue?logo=typescript" /> <img src="https://img.shields.io/badge/TailwindCSS-4.0-38bdf8?logo=tailwindcss" /> <img src="https://img.shields.io/badge/License-MIT-green" /> </p>
+
+## 🔗 Live Demo: https://weather-demo-eta.vercel.app/
 
 ## 🚀 Features
 
@@ -18,40 +22,32 @@
 
 ## 📁 Folder Structure
 
-weather-demo/
-├── public/
-├── src/
-│   ├── api/
-│   ├── components/
-│   ├── hooks/
-│   ├── pages/
-│   ├── styles/
-│   └── main.tsx
-├── index.html
-├── package.json
-├── vite.config.ts
-└── tsconfig.json
-
+<img width="596" height="364" alt="image" src="https://github.com/user-attachments/assets/f7e8a163-0f38-49a7-9600-4a366af25a2f" />
 
 ## 🧩 Installation & Setup
 1️⃣ **Clone the repository**
+
 git clone https://github.com/NikitaKarmakarP/weather-demo.git
+
 cd weather-demo
 
 2️⃣ **Install packages**
+
 npm install
 
 3️⃣ **Start development server**
+
 npm run dev
 
 4️⃣ **Build for production**
 npm run build
 
 5️⃣ **Preview production build**
+
 npm run preview
 
 
-📸 Screenshots
+## 📸 Screenshots
 
 <img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/5794fb32-d5ab-46f6-99a3-934a82b6a9e3" />
 
