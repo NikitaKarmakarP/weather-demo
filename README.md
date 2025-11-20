@@ -68,3 +68,5 @@ If you like this project, please ⭐ the repository.
 ## 📄 License
 
 This project is licensed under the MIT License.
+
+## 👩‍💻 Made with ❤️ by **Nikita**
